@@ -1,7 +1,7 @@
 ## Hi there
 
-- SMTV Vengeance lover
-- Ultimate Larper 
+-SMTV Vengeance lover
+-Ultimate Larper 
 <!--
 **Sidhartaa/Sidhartaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
